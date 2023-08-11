@@ -1,0 +1,9 @@
+[submodule "khusnetdinov/ruby.fundamental"]
+	path = khusnetdinov/ruby.fundamental
+	url = git@github.com:mhackersu/ruby-fundamentals.git
+[submodule "HackBulgaria/Programming101-Ruby"]
+	path = HackBulgaria/Programming101-Ruby
+	url = git@github.com:mhackersu/ruby-programming-101
+[submodule "kumar91gopi/Algorithms-and-Data-Structures-in-Ruby"]
+	path = kumar91gopi/Algorithms-and-Data-Structures-in-Ruby
+	url = git@github.com:mhackersu/algo-data-structures-ruby
